@@ -31,6 +31,4 @@ export class FileBean extends Bean {
         this._path = v;
     }
 
-
-
 }
